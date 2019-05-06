@@ -1,5 +1,5 @@
 {
-  "name": "adonis-starter-codesandbox",
+  "name": "adonisjs",
   "version": "4.1.0",
   "adonis-version": "4.1.0",
   "description": "The fullstack codesandbox application for Adonisjs",
@@ -8,11 +8,7 @@
     "start": "node server.js",
     "test": "node ace test"
   },
-  "keywords": [
-    "adonisjs",
-    "adonis-app",
-    "codesandbox"
-  ],
+  "keywords": [],
   "author": "",
   "license": "UNLICENSED",
   "private": true,
